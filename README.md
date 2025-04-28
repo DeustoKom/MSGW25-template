@@ -1,4 +1,4 @@
-# MSGW Project deliverable 4: timeline
+# MSGW25 Project deliverable 4: timeline
 
 To create your own timeline for this project deliverable, you will need:
 
@@ -28,7 +28,7 @@ To create your own timeline for this project deliverable, you will need:
     - Save the file, making sure you do so in `.csv` format
 6. Upload to the site by drag and drop: open the corresponding folder in your web browser and drag and drop the csv file from your file explorer; write a descriptive commit message (like "Added pictures to some slides"), make sure ![](commit-master.png) is selected, and click "Commit changes". 
 7. Create a post on [the subject website](http://deustokom-lab.deusto.es/blog/). Write a brief descriptive paragraph and embed this timeline by using this code in a "Custom HTML" block (change `group0` with your folder name):
-   `<iframe src="https://lab.deustokom.news/MSGW-timeline/group0/" style="width:100%;min-width:920px;min-height:600px;" frameborder="0"></iframe>`
+   `<iframe src="https://lab.deustokom.news/MSGW25-timeline/group0/" style="width:100%;min-width:920px;min-height:600px;" frameborder="0"></iframe>`
 
 You will find video versions of these instructions in ALUD.
 
