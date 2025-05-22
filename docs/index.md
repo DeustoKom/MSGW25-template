@@ -2,7 +2,7 @@
 
 These are the timelines created for the last team project during Spring 2025:
 
-- [21 Media](https://lab.deustokom.news/MSGW25-timeline/group21media) [`[GitHub folder]`](https://github.com/DeustoKOM/MSGW25-timeline/group21media)
+- [21 Media](https://lab.deustokom.news/MSGW25-timeline/group2) [`[GitHub folder]`](https://github.com/DeustoKOM/MSGW25-timeline/group2)
 - [ClickTalk](https://lab.deustokom.news/MSGW25-timeline/groupClickTalk) [`[GitHub folder]`](https://github.com/DeustoKOM/MSGW25-timeline/groupClickTalk)
 - [Creative Content](https://lab.deustokom.news/MSGW25-timeline/Creative Content) [`[GitHub folder]`](https://github.com/DeustoKOM/MSGW25-timeline/Creative Content)
 - [Donostia Natura](https://lab.deustokom.news/MSGW25-timeline/donostia-natura) [`[GitHub folder]`](https://github.com/DeustoKOM/MSGW25-timeline/donostia-natura)
